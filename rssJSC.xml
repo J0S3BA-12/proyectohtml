@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
 	<!--Inicio-->
@@ -7,6 +7,13 @@
 	<description>Informacio sobre mí</description>
 	<category>Curriculum</category>
 	<copyright>1º ASIR - LMSGI - Joseba De Santos Cepreaga</copyright>
+	  <item>
+	    <title>Sobre mi</title>
+	    <description>En este articulo encontraras informacion sobre mi, el autor</description>
+	    <link>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/index.html</link>
+	    <author>desacesmr_aliesma20@iesmedinaazahara.es</author>
+	    <category>Sobre mi</category>
+	  </item>
 		<item>
 			<title>Fundamentos de Hardware</title>
 			<description>En este artículo se explicará brevemente sobre el modulo de Fundamentos de Hardware</description>
@@ -21,5 +28,48 @@
 		  <author>desacesmr_aliesma20@iesmedinaazahara.es</author>
 		  <category>Database</category>
 		</item>
+		<item>
+		<title>Lenguaje de Marcas</title>
+		<description>En este articulo se explicará brevemente sobre el modulo de Lenguaje de Marcas</description>
+		<link>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/lenguaje.html</link>
+		<author>desacesmr_aliesma20@iesmedinaazahara.es</author>
+		<category>LM</category>
+		</item>
+		<item>
+		<title>Digitalizacion</title>
+		<description>En este articulo se explicará brevemente sobre el modulo de Digitalizacion</description>
+		<link>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/digitalizacion.html</link>
+		<author>desacesmr_aliesma20@iesmedinaazahara.es</author>
+		<category>Digitalizacion</category>
+		</item>
+		<item>
+		<title>Itinerario Personal para Empresas</title>
+		<description>En este articulo se explicará brevemente sobre el modulo de Itinerario Personal para Empresas</description>
+		<link>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/IPE.html</link>
+		<author>desacesmr_aliesma20@iesmedinaazahara.es</author>
+		<category>IPE</category>
+		</item>
+		<item>
+		<title>Planificacion de Redes</title>
+		<description>En este articulo se explicará brevememente sobre el modulo de Planificacion de Redes</description>
+		<link>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/Redes.html</link>
+		<author>desacesmr_aliesma20@iesmedinaazahara.es</author>
+		<category>Redes</category>
+		</item>
+		<item>
+		<title>Implantacion de sistemas operativos</title>
+		<description>En este articulo se explicará brevememente sobre el modulo de Implantacion de sistemas operativos</description>
+		<link>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/Sistemas.html</link>
+		<author>desacesmr_aliesma20@iesmedinaazahara.es</author>
+		<category>SO</category>
+		</item>
+		<item>
+		<title>Sostenibilidad</title>
+		<description>En este articulo se explicará brevemente sobre el modulo de Sostenibilidad</description>
+		<link>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/Sistemas.html</link>
+		<author>desacesmr_aliesma20@iesmedinaazahara.es</author>
+		<category>Sostenibilidad</category>
+		</item>
 	</channel>
 </rss>
+
