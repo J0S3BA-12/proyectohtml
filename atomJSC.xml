@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xml:lang="es"
+  xml:base="https://j0s3ba-12.github.io/proyectohtml/">
+  
+  <id>https://j0s3ba-12.github.io/proyectohtml/</id>
+  
+  <title>Portfolio, version atom</title>
+  <updated>2026-01-27-T12:30:00+01:00</updated> 
+  <link rel="alternate" href="https://j0s3ba-12.github.io/proyectohtml/atom.xml"/>
+  
+  <author>
+    <name>Joseba De Santos Cepreaga</name>
+    <email>desacesmr_aliesma20@iesmedinaazahara.es</email>
+  </author>
+  
+  <category term="Portfolios"/>
+  
+  <contributor>
+    <name>Autor 2</name>
+    <email>autor2@gmail.com</email>
+    <url>https://www.linkedin.com/in/autor2</url>
+  </contributor>
+  <logo>portfolio.png</logo>
+  
+  <entry>
+    <id>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/digitalizacion.html</id>
+    <title>Información sobre el modulo de Digitalizacion</title>
+    <update>2026-01-27-T12:30:00+01:00</update>
+    <author>
+      <name>Joseba De Santos Cepreaga</name>
+      <email>desacesmr_aliesma20@iesmedinaazhara.es</email>
+    </author>
+    <summary>En este articulo encontraras informacion de forma resumida del modulo de Digitalizacion</summary>
+    <link ref="alternate" href="https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/digitalizacion.html"></link>
+  </entry>
+  
+  </feed>
