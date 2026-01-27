@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<!--Inicio-->
+	<title>Portfolio</title>
+	<link>https://j0s3ba-12.github.io/proyectohtml/</link>
+	<description>Informacio sobre mí</description>
+	<category>Curriculum</category>
+	<copyright>1º ASIR - LMSGI - Joseba De Santos Cepreaga</copyright>
+		<item>
+			<title>Fundamentos de Hardware</title>
+			<description>En este artículo se explicará brevemente sobre el modulo de Fundamentos de Hardware</description>
+			<link>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/fundamentos.html</link>
+			<author>desacesmr_aliesma20@iesmedinaazahara.es</author>
+			<category>Hardware</category>
+		</item>
+		<item>
+		  <title>Gestion Base de Datos</title>
+		  <description>En este articulo se explicará brevemente sobre el modulo de Gestion Base de Datos</description>
+		  <link>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/gestion.html</link>
+		  <author>desacesmr_aliesma20@iesmedinaazahara.es</author>
+		  <category>Database</category>
+		</item>
+	</channel>
+</rss>
