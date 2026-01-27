@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom"
   xml:lang="es"
@@ -25,6 +25,50 @@
   <logo>portfolio.png</logo>
   
   <entry>
+    <id>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/index.html</id>
+    <title>Informacion sobre mi, el autor</title>
+    <update>2026-01-27-T12:30:00+01:00</update>
+    <author>
+      <name>Joseba De Santos Cepreaga</name>
+      <email>desacesmr_aliesma20@iesmedinaazahara.es</email>
+    </author>
+    <summary>En este articulo encontraras informacion de forma resumida del autor</summary>
+    <link ref="alternate" href="https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/index.html"></link>
+  </entry>
+  <entry>
+  <id>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/fundamentos.html</id>
+  <title>Informacion sobre el modulo de Fundamentos de Hardware</title>
+  <update>2026-01-27-T12:30:00+01:00</update>
+  <author>
+    <name>Joseba De Santos Cepreaga</name>
+    <email>desacesmr_aliesma20@iesmedinaazahara.es</email>
+  </author>
+  <summary>En este articulo encontraras informacion de forma resumida del modulo de Fundamentos</summary>
+  <link ref="alternate"  href="https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/fundamentos.html"></link>
+  </entry>
+  <entry>
+  <id>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/gestion.html</id>
+  <title>Informacion sobre el modulo de Gestion de Base de Datos</title>
+  <update>2026-01-27-T12:30:00+01:00</update>
+  <author>
+    <name>Joseba De Santos Cepreaga</name>
+    <email>desacesmr_aliesma20@iesmedinaazahara.es</email>
+  </author>
+  <summary>En este articulo encontraras informacion de forma resumida del modulo de Gestion de base de datos</summary>
+  <link ref="alternate" href="https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/gestion.html"></link>
+  </entry>
+    <entry>
+  <id>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/lenguaje.html</id>
+  <title>Informacion sobre el modulo de Lenguaje de Marcas</title>
+  <update>2026-01-27-T12:30:00+01:00</update>
+  <author>
+    <name>Joseba De Santos Cepreaga</name>
+    <email>desacesmr_aliesma20@iesmedinaazahara.es</email>
+  </author>
+  <summary>En este articulo encontraras informacion de forma resumida del modulo de Lenguaje de marcas</summary>
+  <link ref="alternate" href="https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/lenguaje.html"></link>
+  </entry>
+  <entry>
     <id>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/digitalizacion.html</id>
     <title>Información sobre el modulo de Digitalizacion</title>
     <update>2026-01-27-T12:30:00+01:00</update>
@@ -35,5 +79,48 @@
     <summary>En este articulo encontraras informacion de forma resumida del modulo de Digitalizacion</summary>
     <link ref="alternate" href="https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/digitalizacion.html"></link>
   </entry>
-  
+    <entry>
+    <id>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/IPE.html</id>
+    <title>Información sobre el modulo de Itinerario Personal para Empresas</title>
+    <update>2026-01-27-T12:30:00+01:00</update>
+    <author>
+      <name>Joseba De Santos Cepreaga</name>
+      <email>desacesmr_aliesma20@iesmedinaazhara.es</email>
+    </author>
+    <summary>En este articulo encontraras informacion de forma resumida del modulo de Itinerario Personal para Empresas</summary>
+    <link ref="alternate" href="https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/IPE.html"></link>
+  </entry>
+  <entry>
+    <id>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/Redes.html</id>
+    <title>Información sobre el modulo de Planificacion de Redes</title>
+    <update>2026-01-27-T12:30:00+01:00</update>
+    <author>
+      <name>Joseba De Santos Cepreaga</name>
+      <email>desacesmr_aliesma20@iesmedinaazhara.es</email>
+    </author>
+    <summary>En este articulo encontraras informacion de forma resumida del modulo de Planifiicacion de Redes</summary>
+    <link ref="alternate" href="https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/Redes.html"></link>
+  </entry>
+  <entry>
+    <id>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/Sistemas.html</id>
+    <title>Información sobre el modulo de Implatancion de Sistemas Operativos</title>
+    <update>2026-01-27-T12:30:00+01:00</update>
+    <author>
+      <name>Joseba De Santos Cepreaga</name>
+      <email>desacesmr_aliesma20@iesmedinaazhara.es</email>
+    </author>
+    <summary>En este articulo encontraras informacion de forma resumida del modulo de Implantacion de Sistemas Operativos</summary>
+    <link ref="alternate" href="https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/Sistemas.html"></link>
+  </entry>
+    <entry>
+    <id>https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/Sostenibilidad.html</id>
+    <title>Información sobre el modulo de Sostenibilidad</title>
+    <update>2026-01-27-T12:30:00+01:00</update>
+    <author>
+      <name>Joseba De Santos Cepreaga</name>
+      <email>desacesmr_aliesma20@iesmedinaazhara.es</email>
+    </author>
+    <summary>En este articulo encontraras informacion de forma resumida del modulo de Implantacion de Sostenibilidad</summary>
+    <link ref="alternate" href="https://j0s3ba-12.github.io/proyectohtml/trabajo/paginas/Sostenibilidad.html"></link>
+  </entry>
   </feed>
